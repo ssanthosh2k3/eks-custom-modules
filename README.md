@@ -1,9 +1,11 @@
+```
+
 eks-module/
 │── main.tf        # Defines the resources
 │── variables.tf   # Defines input variables
 │── outputs.tf     # Defines outputs
 
-
+```
 
 2. Define EKS Cluster in main.tf
 
